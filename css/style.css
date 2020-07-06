@@ -1,0 +1,61 @@
+/* *************** Comon CSS ************* */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-top: 50px;
+}
+button{
+    text-transform: uppercase;
+}
+
+/* **************** Nav Bar Start******************** */
+.navbar-nav{
+    text-transform: capitalize;
+}
+.navbar img,.navbar{
+    height: 70px;
+}
+/* **************** Nav Bar End******************** */
+
+/* **************** Banner part Start******************** */
+.carousel-indicators li{
+    background: darkgrey;
+    height: 0;
+    width: 20px;
+    border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent;
+    border-radius: 20px;
+   
+}
+.carousel-indicators .active{
+    background:#FF9C35;
+    border-radius: 10px;
+    width: 40px;
+    border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent;
+}
+.row-gap h1,p,button{
+    padding: 20px 0;
+    text-transform: uppercase;
+}
+.anchor-clr{
+    color: #FF9C35;
+}
+.anchor-clr:hover{
+   text-decoration: none;
+   color: #FF9C35;
+}
+/* **************** Banner part End******************** */
+
+/* **************** Smartphone Start******************** */
+
+/* **************** Smartphone End******************** */
+
+/* **************** Laptop Start******************** */
+
+/* **************** Laptop End******************** */
+
+/* **************** Categories Start******************** */
+
+/* **************** Categories End******************** */
