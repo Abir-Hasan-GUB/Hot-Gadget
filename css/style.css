@@ -66,10 +66,24 @@ button{
 }
 /* **************** Smartphone End******************** */
 
-/* **************** Laptop Start******************** */
-
-/* **************** Laptop End******************** */
-
 /* **************** Categories Start******************** */
-
+.cat-border{
+    text-align: center;
+}
+.cat-bg{
+    width: 100%;
+}
+.row-img{
+    margin-left: -100%;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 5px 5px 30px 5px;
+}
+.row-img-1{
+    padding: 20px;
+    margin-right: 20%;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 5px 5px 30px 5px;
+}
 /* **************** Categories End******************** */
